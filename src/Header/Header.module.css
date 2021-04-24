@@ -1,0 +1,47 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+    padding-bottom: 60px;
+    background-color: #fec830;
+    border-bottom: 1px solid #EEF1F5;
+}
+
+.logoWrapper {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: auto;
+    background-color: #fec830;
+}
+
+.logo {
+    max-width: 200px;
+    width: 135px;
+    height: auto;
+    padding: 20px 0;
+}
+
+.title {
+    width: 463px;
+    height: 74px;
+    color: #3b4754;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 1.2;
+    text-align: center;
+    margin: 50px auto;
+}
+
+.textWrapper {
+    width: 701px;
+    height: 532px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 1.4;
+    text-align: left;
+}
